@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.xbox-controller-indicator"
+          path="/org/gnome/shell/extensions/xbox-controller-indicator/">
+
+    <key name="controller-colors" type="as">
+      <default>[]</default>
+      <summary>Controller color mappings</summary>
+      <description>
+        List of "MAC:COLOR:NAME" entries, e.g.
+        "AA:BB:CC:DD:EE:FF:#ff0000:Red Controller"
+      </description>
+    </key>
+
+    <key name="icon-size" type="i">
+      <default>16</default>
+      <summary>Icon size in pixels</summary>
+      <description>Size of the controller icon in the panel (8–32)</description>
+    </key>
+
+    <key name="show-battery" type="b">
+      <default>true</default>
+      <summary>Show battery level</summary>
+      <description>Show battery percentage next to the icon (if available)</description>
+    </key>
+
+  </schema>
+</schemalist>

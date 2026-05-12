@@ -1,0 +1,107 @@
+# German translation for Xbox Controller Indicator
+# Copyright (C) 2026
+# SPDX-License-Identifier: GPL-2.0-or-later
+msgid ""
+msgstr ""
+"Project-Id-Version: xbox-controller-indicator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-29\n"
+"PO-Revision-Date: 2026-04-29\n"
+"Last-Translator: Tobias\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Disconnect"
+msgstr "Verbindung trennen"
+
+msgid "Battery: not available"
+msgstr "Akku: nicht verfügbar"
+
+msgid "Controller name"
+msgstr "Controller-Name"
+
+msgid "Delete entry"
+msgstr "Eintrag löschen"
+
+msgid "✓ configured"
+msgstr "✓ konfiguriert"
+
+msgid "🟢 connected"
+msgstr "🟢 verbunden"
+
+msgid "⚪ paired"
+msgstr "⚪ gepairt"
+
+msgid "Already added"
+msgstr "Bereits hinzugefügt"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "✓ Added"
+msgstr "✓ Hinzugefügt"
+
+msgid "Controllers"
+msgstr "Controller"
+
+msgid "Detected Bluetooth devices"
+msgstr "Erkannte Bluetooth-Geräte"
+
+msgid ""
+"Paired gamepads – including powered-off ones.\n"
+"Click \"Add\" to configure them."
+msgstr ""
+"Gepaarte Gamepads – auch ausgeschaltete werden angezeigt.\n"
+"Klicke auf \"Hinzufügen\" um sie zu konfigurieren."
+
+msgid "Scan Bluetooth again"
+msgstr "Bluetooth erneut scannen"
+
+msgid "Scan BlueZ for gamepad devices"
+msgstr "BlueZ nach Gamepad-Geräten durchsuchen"
+
+msgid "Configured controllers"
+msgstr "Konfigurierte Controller"
+
+msgid "Color and name for each controller."
+msgstr "Farbe und Name für jeden Controller."
+
+msgid "Add manually"
+msgstr "Manuell hinzufügen"
+
+msgid ""
+"Enter MAC address directly (format: AA:BB:CC:DD:EE:FF)\n"
+"Find it via: bluetoothctl devices"
+msgstr ""
+"MAC-Adresse direkt eingeben (Format: AA:BB:CC:DD:EE:FF)\n"
+"Zu finden mit: bluetoothctl devices"
+
+msgid "MAC address"
+msgstr "MAC-Adresse"
+
+msgid "Appearance"
+msgstr "Darstellung"
+
+msgid "Icon"
+msgstr "Icon"
+
+msgid "Icon size"
+msgstr "Icon-Größe"
+
+msgid "Pixels (8–32)"
+msgstr "Pixel (8–32)"
+
+msgid "Show battery level"
+msgstr "Akku-Stand anzeigen"
+
+msgid "If reported by the controller"
+msgstr "Falls vom Controller gemeldet"
+
+msgid "No paired gamepads found"
+msgstr "Keine gepairten Gamepads gefunden"
+
+msgid "Power on or pair a controller, then scan again"
+msgstr "Controller einschalten oder pairen, dann erneut scannen"
