@@ -2,7 +2,8 @@
   "uuid": "xbox-controller-indicator@tobmanbot",
   "name": "Xbox Controller Indicator",
   "description": "Shows connected Xbox/gamepad controllers as colored icons in the panel. Configure colors per MAC address in the preferences.",
-  "version": 1,
+  "version": 3,
+  "url": "https://github.com/tobmanbot/xbox-controller-indicator",
   "shell-version": ["46", "47", "48", "49", "50"],
   "settings-schema": "org.gnome.shell.extensions.xbox-controller-indicator",
   "gettext-domain": "xbox-controller-indicator"
